@@ -1,0 +1,15 @@
+/home/anton/Documents/Code/dafny/exercise/abs/obj/Debug/net6.0/abs.csproj.AssemblyReference.cache
+/home/anton/Documents/Code/dafny/exercise/abs/obj/Debug/net6.0/abs.GeneratedMSBuildEditorConfig.editorconfig
+/home/anton/Documents/Code/dafny/exercise/abs/obj/Debug/net6.0/abs.AssemblyInfoInputs.cache
+/home/anton/Documents/Code/dafny/exercise/abs/obj/Debug/net6.0/abs.AssemblyInfo.cs
+/home/anton/Documents/Code/dafny/exercise/abs/obj/Debug/net6.0/abs.csproj.CoreCompileInputs.cache
+/home/anton/Documents/Code/dafny/exercise/abs/abs
+/home/anton/Documents/Code/dafny/exercise/abs/obj/Debug/net6.0/abs.dll
+/home/anton/Documents/Code/dafny/exercise/abs/obj/Debug/net6.0/ref/abs.dll
+/home/anton/Documents/Code/dafny/exercise/abs/obj/Debug/net6.0/abs.pdb
+/home/anton/Documents/Code/dafny/exercise/abs/abs.deps.json
+/home/anton/Documents/Code/dafny/exercise/abs/obj/Debug/net6.0/abs.genruntimeconfig.cache
+/home/anton/Documents/Code/dafny/exercise/abs/abs.runtimeconfig.json
+/home/anton/Documents/Code/dafny/exercise/abs/abs.dll
+/home/anton/Documents/Code/dafny/exercise/abs/ref/abs.dll
+/home/anton/Documents/Code/dafny/exercise/abs/abs.pdb
