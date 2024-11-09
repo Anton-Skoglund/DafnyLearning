@@ -1,0 +1,15 @@
+/home/anton/Documents/Code/dafny/exercise/not_verified/obj/Debug/net6.0/NotVerified.csproj.AssemblyReference.cache
+/home/anton/Documents/Code/dafny/exercise/not_verified/obj/Debug/net6.0/NotVerified.GeneratedMSBuildEditorConfig.editorconfig
+/home/anton/Documents/Code/dafny/exercise/not_verified/obj/Debug/net6.0/NotVerified.AssemblyInfoInputs.cache
+/home/anton/Documents/Code/dafny/exercise/not_verified/obj/Debug/net6.0/NotVerified.AssemblyInfo.cs
+/home/anton/Documents/Code/dafny/exercise/not_verified/obj/Debug/net6.0/NotVerified.csproj.CoreCompileInputs.cache
+/home/anton/Documents/Code/dafny/exercise/not_verified/NotVerified
+/home/anton/Documents/Code/dafny/exercise/not_verified/obj/Debug/net6.0/NotVerified.dll
+/home/anton/Documents/Code/dafny/exercise/not_verified/obj/Debug/net6.0/ref/NotVerified.dll
+/home/anton/Documents/Code/dafny/exercise/not_verified/obj/Debug/net6.0/NotVerified.pdb
+/home/anton/Documents/Code/dafny/exercise/not_verified/NotVerified.deps.json
+/home/anton/Documents/Code/dafny/exercise/not_verified/obj/Debug/net6.0/NotVerified.genruntimeconfig.cache
+/home/anton/Documents/Code/dafny/exercise/not_verified/NotVerified.runtimeconfig.json
+/home/anton/Documents/Code/dafny/exercise/not_verified/NotVerified.dll
+/home/anton/Documents/Code/dafny/exercise/not_verified/ref/NotVerified.dll
+/home/anton/Documents/Code/dafny/exercise/not_verified/NotVerified.pdb
