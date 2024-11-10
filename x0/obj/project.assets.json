@@ -930,11 +930,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/anton/Documents/Code/dafny/exercise/MultiReturns.csproj",
+      "projectUniqueName": "/home/anton/Documents/Code/dafny/exercise/x0/MultiReturns.csproj",
       "projectName": "MultiReturns",
-      "projectPath": "/home/anton/Documents/Code/dafny/exercise/MultiReturns.csproj",
+      "projectPath": "/home/anton/Documents/Code/dafny/exercise/x0/MultiReturns.csproj",
       "packagesPath": "/home/anton/.nuget/packages/",
-      "outputPath": "/home/anton/Documents/Code/dafny/exercise/obj/",
+      "outputPath": "/home/anton/Documents/Code/dafny/exercise/x0/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/anton/.nuget/NuGet/NuGet.Config"

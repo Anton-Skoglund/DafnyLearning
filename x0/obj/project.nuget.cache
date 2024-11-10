@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7yxRk61+9Hv6CmXa+vUZHMHwPzwbyyu98EcOjfJUmFg5daAjmrzVy+POGtDooLQwQ+DkEZI45p+uz1Qa5yvaGw==",
+  "dgSpecHash": "KoI9jryi3VRl7o7J36y/Pz1BCr/WPK57YlY0/giIUx0qb731tU+B2OINQbzDCad+jzcIpi6eSspiq7tALes4yw==",
   "success": true,
-  "projectFilePath": "/home/anton/Documents/Code/dafny/exercise/MultiReturns.csproj",
+  "projectFilePath": "/home/anton/Documents/Code/dafny/exercise/x0/MultiReturns.csproj",
   "expectedPackageFiles": [
     "/home/anton/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/home/anton/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
