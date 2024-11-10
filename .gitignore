@@ -9,3 +9,12 @@ obj/
 # Ignore compiled output
 *.exe
 *.dll
+
+# dafny genreated files 🙏
+*.pdb
+*.runtimeconfig.json
+*.cs
+*.csproj
+*.deps.json
+
+
