@@ -10,7 +10,7 @@ obj/
 *.exe
 *.dll
 
-# dafny genreated files 🙏
+# Ignore dafny genreated files 🙏
 *.pdb
 *.runtimeconfig.json
 *.cs

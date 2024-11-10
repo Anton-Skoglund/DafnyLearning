@@ -1,11 +1,20 @@
-// Exercise 1. Write a test method that calls your Max method from Exercise 0 and then asserts something about the result.
-include "x0.dfy" 
-// use definition of Max() from before.
-method Testing()
-{
-	var v := Max(3, 5);
-	// Assertions use the pre/post-conditions to simplify
-	// We don't care at all what happens inside each method
-	// when we call it, as long as it satisfies its annotations.
-	assert v == 5;
+include "x0.dfy"
+
+method MaxTest(){
+    var a: int := 10;
+    var b: int := 20;
+    var max := Max(a, b);
+    assert max != a + b;
+    assert max < a + b;
+    assert max != a || max == a;
+    
+    var a2: int := 0;
+    var b2: int := 20;
+    var max2 := Max(a2, b2);
+    /* 
+    they do not hold for these values
+    assert max2 != a2 + b2;
+    assert max2 < a2 + b2;
+    assert max2 != a2 || max == a2;
+    */
 }
