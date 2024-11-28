@@ -7,17 +7,17 @@ function fib(n: nat): nat
 
 
 method ComputeFib(n: nat) returns (b: nat)
-    ensures b == fib(n);
+    ensures b == fib(n)
 {
     var i := 0;
     var a := 1;
     b := 0;
 
     while (i < n)
-        invariant 0 <= i <= n;
-        invariant i == 0 ==> a == 1 && b == 0;
+        invariant 0 <= i <= n
+        invariant i == 0 ==> a == 1 && b == 0
         invariant i > 0 ==> a == fib(i - 1)
-        invariant b == fib(i);
+        invariant b == fib(i)
     {
         a, b := b, a + b;
         i := i + 1;

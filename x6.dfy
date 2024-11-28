@@ -5,7 +5,7 @@ function abs(x: int): int
 
 
 method Abs(x: int) returns (y: int)
-    ensures y == abs(x);
+    ensures y == abs(x)
 {
     if (x < 0) { y := -x; }
     else { y := x; }

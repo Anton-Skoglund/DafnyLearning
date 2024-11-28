@@ -7,15 +7,15 @@ function fib(n: nat): nat
 
 method ComputeFib(n: nat) returns (b: nat)
     requires n > 0
-    ensures b == fib(n);
+    ensures b == fib(n)
 {
     var i := 1;
     b := 1;
     var c := b;
     while (i < n)
-        invariant 0 < i <= n;
-        invariant b == fib(i);
-        invariant c == fib(i + 1);
+        invariant 0 < i <= n
+        invariant b == fib(i)
+        invariant c == fib(i + 1)
     {
         b, c := c, c + b;
         i := i + 1;
