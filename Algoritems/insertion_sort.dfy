@@ -24,7 +24,6 @@ method InsertionSort(a: array<int>)
 
     while(i < a.Length)
         invariant 1 <= i <= a.Length
-        invariant sorted(a[..(i-1)])
 
         decreases a.Length - i
     {
